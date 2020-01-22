@@ -19,3 +19,9 @@ php 文件路径/run.php
 
 定时任务 间隔时间 为消毒间隔时间 如：每小时执行一次 / 每小时消毒一次。
 
+## 赞助
+
+赞助商:黑店（https://taoluyun.cc）
+
+效果预览: https://t.me/ExpressNode
+
