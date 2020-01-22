@@ -96,7 +96,7 @@ $Bot = new TelegramBot( TOKEN, CHATID);
 
 $Bot->sendMessage( "群内消毒中，请戴好口罩不要说话。" );
 $Bot->setChatPermissions( false );
-$Bot->sendMessage( "说已开启紫外线杀菌。" );
+$Bot->sendMessage( "已开启紫外线杀菌。" );
 $Bot->sendMessage( "正在喷洒次氧化氯溶液消毒中。" );
 sleep(SLEEPTIME);
 $Bot->setChatPermissions( true );
