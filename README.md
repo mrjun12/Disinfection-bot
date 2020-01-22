@@ -21,7 +21,7 @@ php 文件路径/run.php
 
 ## 赞助
 
-赞助商:黑店（https://taoluyun.cc）
+赞助商:黑店（ https://taoluyun.cc ）
 
 效果预览: https://t.me/ExpressNode
 
